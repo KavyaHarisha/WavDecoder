@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WavDecode</string>
+    <string name="text_wav_3">.wav_3</string>
+    <string name="text_wav_2">.wav_2</string>
+    <string name="text_wav_1">.wav_1</string>
+    <string name="wav_info_text">Please select the file to see the wav data</string>
+</resources>
